@@ -1,0 +1,38 @@
+/*CURRICULUM VITAE STYLE*/
+body { 
+    margin: 0;
+}
+
+
+#page{
+    font-family: "Helvetica";
+    height: 100%;
+    background: linear-gradient(#88b0d0, #EFD0FF);
+}
+
+#head{
+    font-family: "Helvetica";
+    position: relative;
+    padding: 30px;
+    font-size: 40px;
+    color:#450095;
+}
+
+#photo{
+    border:15px double #1b0238;
+    float: right;
+    position: relative; 
+    margin-right: 70px;
+}
+
+#contact{
+    font-size: 20px;
+
+    margin: 25px;
+    text-indent: 15px
+    color:#00212a;
+}
+
+#description{
+    margin: 25px;
+}
